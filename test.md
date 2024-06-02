@@ -1,13 +1,13 @@
 ---
-title: 'Implementing Data-Driven Customer Segmentation'
+title: 'The Ultimate Guide to Growth Hacking'
 status: 'published'
-description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.'
-coverImage: '/images/jupiter-spaceship.png'
-tags: [{"label":"NextJs","value":"nextJs"},{"label":"GitHub","value":"gitHub"},{"label":"Outstatic","value":"outstatic"}]
+description: 'null'
+coverImage: 'https://images.unsplash.com/photo-1543539409-abc7b09bb042?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIzfHxncm93dGh8ZW58MHx8fHwxNzA1OTg2NjcxfDA&ixlib=rb-4.0.3&q=80&w=2000'
+tags: [{"label":"marketing","value":"marketing"}]
 author:
-    name: 'Andre Vitorio'
-slug: 'how-to-create-an-outstatic-blog'
-publishedAt: '2022-07-14T02:34:02.322Z'
+    name: 'Alex Genovese'
+slug: 'the-ultimate-guide-to-growth-hacking'
+publishedAt: '2024-01-23T05:59:50.000Z'
 ---
 
 Explore the critical role of growth consultants in implementing data-driven customer segmentation strategies. Learn best practices and success stories.
