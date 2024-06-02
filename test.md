@@ -1,13 +1,13 @@
 ---
-title: 'Implementing Data-Driven Customer Segmentation'
-status: 'published'
-description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.'
-coverImage: '/images/jupiter-spaceship.png'
-tags: [{"label":"NextJs","value":"nextJs"},{"label":"GitHub","value":"gitHub"},{"label":"Outstatic","value":"outstatic"}]
-author:
-  name: 'Andre Vitorio'
-slug: 'how-to-create-an-outstatic-blog'
-publishedAt: '2022-07-14T02:34:02.322Z'
+title: '*Five-Step Optimization Process to Data Driven Process'
+status: 'draft'
+description: 'null'
+coverImage: 'null'
+tags: []
+author: '',
+  name: ''
+slug: 'the-five-step-optimization-process'
+publishedAt: 'null'
 ---
 
 Explore the critical role of growth consultants in implementing data-driven customer segmentation strategies. Learn best practices and success stories.
