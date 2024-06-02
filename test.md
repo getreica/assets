@@ -1,13 +1,13 @@
 ---
 title: 'Implementing Data-Driven Customer Segmentation'
-status: 'published'
-description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.'
-coverImage: '/images/jupiter-spaceship.png'
-tags: [{"label":"NextJs","value":"nextJs"},{"label":"GitHub","value":"gitHub"},{"label":"Outstatic","value":"outstatic"}]
-author:
-  name: 'Andre Vitorio'
-slug: 'how-to-create-an-outstatic-blog'
-publishedAt: '2022-07-14T02:34:02.322Z'
+status: 'draft'
+description: 'null'
+coverImage: 'https://images.unsplash.com/photo-1621713306880-4acffab99659?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGdyb3VwaW5nfGVufDB8fHx8MTcwNjc4NzQ0NXww&ixlib=rb-4.0.3&q=80&w=2000'
+tags: []
+author: '',
+    name: ''
+slug: 'the-role-of-growth-consultants-implementing-data-driven-customer-segmentation'
+publishedAt: 'null'
 ---
 
 Explore the critical role of growth consultants in implementing data-driven customer segmentation strategies. Learn best practices and success stories.
