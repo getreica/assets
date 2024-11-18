@@ -1,0 +1,37 @@
+[
+    { 
+        "filename": "Juggernaut-XI-byRunDiffusion.safetensors",
+        "url" : "https://huggingface.co/alexgenovese/checkpoint/resolve/main/Juggernaut-XI-byRunDiffusion.safetensors",
+        "folder" : "checkpoints"
+    },
+    {
+        "filename" : "controlnet-union-sdxl-1.0_promax.safetensors",
+        "url" : "https://huggingface.co/alexgenovese/controlnet/resolve/main/controlnet-union-sdxl-1.0_promax.safetensors",
+        "folder" : "controlnet"
+    },
+    {
+        "filename" : "perfection_style_v2d.safetensors",
+        "url" : "https://huggingface.co/alexgenovese/loras/resolve/main/perfection_style_v2d.safetensors",
+        "folder" : "lora"
+    },
+    {
+        "filename" : "flux1-dev-turbo-alpha.safetensors",
+        "url" : "https://huggingface.co/alexgenovese/loras/resolve/main/flux1-dev-turbo-alpha.safetensors",
+        "folder" : "lora"
+    },
+    {
+        "filename" : "ViT-L-14-TEXT-detail-improved-hiT-GmP-TE-only-HF.safetensors",
+        "url" : "https://huggingface.co/alexgenovese/clip/resolve/main/ViT-L-14-TEXT-detail-improved-hiT-GmP-TE-only-HF.safetensors",
+        "folder" : "clip"
+    },
+    {
+        "filename" : "4x_NMKD-Superscale-SP_178000_G.pth",
+        "url" : "https://huggingface.co/alexgenovese/reica_upscalers/resolve/main/4x_NMKD-Superscale-SP_178000_G.pth", 
+        "folder" : "upscale_models"
+    },
+    {
+        "filename": "4xFaceUpDAT.pth",
+        "url" : "https://huggingface.co/alexgenovese/upscalers/resolve/main/4xFaceUpDAT.pth",
+        "folder" : "upscale_models"
+    }
+]
