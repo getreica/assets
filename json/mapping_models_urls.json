@@ -33,5 +33,10 @@
         "filename": "4xFaceUpDAT.pth",
         "url" : "https://huggingface.co/alexgenovese/upscalers/resolve/main/4xFaceUpDAT.pth",
         "folder" : "upscale_models"
+    },
+    {
+        "filename": "ae.sft",
+        "url" : "https://huggingface.co/alexgenovese/vae/resolve/main/ae.sft",
+        "folder" : "vae"
     }
 ]
