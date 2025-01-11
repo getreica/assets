@@ -1,8 +1,13 @@
 [
     { 
-        "filename": "ae.sft",
-        "url" : "https://huggingface.co/alexgenovese/vae/resolve/main/ae.sft",
-        "folder" : "vae"
+        "filename": "flux1-dev-F16.gguf",
+        "url" : "https://huggingface.co/city96/FLUX.1-dev-gguf/resolve/main/flux1-dev-F16.gguf",
+        "folder" : "checkpoints"
+    },
+    {
+        "filename": "t5-v1_1-xxl-encoder-f16.gguf",
+        "url": "https://huggingface.co/city96/t5-v1_1-xxl-encoder-gguf/resolve/main/t5-v1_1-xxl-encoder-f16.gguf",
+        "folder": "clip"
     },
     { 
         "filename": "Juggernaut-XI-byRunDiffusion.safetensors",
