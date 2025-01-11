@@ -1,5 +1,10 @@
 [
     { 
+        "filename": "ae.sft",
+        "url" : "https://huggingface.co/alexgenovese/vae/resolve/main/ae.sft",
+        "folder" : "vae"
+    },
+    { 
         "filename": "Juggernaut-XI-byRunDiffusion.safetensors",
         "url" : "https://huggingface.co/alexgenovese/checkpoint/resolve/main/Juggernaut-XI-byRunDiffusion.safetensors",
         "folder" : "checkpoints"
